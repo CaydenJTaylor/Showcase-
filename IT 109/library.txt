@@ -1,0 +1,5 @@
+I1,book,Girl with no name,S1234,978-1605985459,Deborah Rai,5
+I89,book,Journey to the moon,S789,971-1605985190,Ashley Howler,4
+I7,book,The calculating stars,S123,978-0765378385,Mary Kowal,8
+I100,magazine,Time,S245,Vol15-22,MAR-21,10
+I10,magazine,Mason Spirit,S8291,Vol45,Issues 2021,23
