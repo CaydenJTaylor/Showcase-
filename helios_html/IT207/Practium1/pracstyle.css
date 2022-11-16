@@ -1,0 +1,25 @@
+body {
+  background-color: silver;
+}
+h2 {
+  color: gray;
+  background-color: blue;
+   padding-top: 25px;
+  padding-bottom: 25px;
+}
+h4 {
+	background-color: gray;
+}
+
+footer {
+  color: white;
+  background-color: orange;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 50px;
+  text-align: right;
+}
+
+h3 {
+	color: white;
+}
