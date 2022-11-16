@@ -1,0 +1,6 @@
+https://www.zvelo.com/anatomy-of-full-path-url
+http://www.foldxsuite.crg.eu/node196
+https://www.pnas.org/content
+ftp://www.files.org/file1
+https://www.telegraph.co/path-name
+https://ist.gmu.edu/programs
